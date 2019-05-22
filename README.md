@@ -4,9 +4,9 @@
 ![lastcommit](https://img.shields.io/github/last-commit/ak-wa/Useful-Python-Snippets.svg)
 ![follow](https://img.shields.io/github/followers/ak-wa.svg?label=Follow&style=social)
 
-Here I'll put my Python snippets that may be useful for one or the other purpose.
+Here I put my Python snippets that may be useful for one or the other purpose.
 
 
 ### tor_check.py
 
-* tries to route the script through tor on socks5://127.0.0.1:9150 , and prints your remote ip address.
+* tries to route the script through tor on socks5://127.0.0.1:9150 ; prints your remote ip address.
