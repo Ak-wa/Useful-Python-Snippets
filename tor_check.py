@@ -2,9 +2,9 @@
 # Feel free to leave any feedback on my github: github.com/ak-w
 # Tests for tor connection ability through localhost:9150 (Tor Socks5 Port)
 # Troubleshooting:
-# 1. Make sure to have tor service running(On linux: apt-get install tor && tor | On windows, just start the tor browser)
-# 2. On importerror install the modules manually
-# 3. Make sure you are running Python 3.x
+# 1. Make sure to have tor service installed and running(On linux: apt-get install tor && tor | On windows, just start the tor browser)
+# 2. On importerror try to install the modules manually
+# 3. Make sure you are running Python 3.x / Tested on Python 3.7
 try:
     import socket,socks
     from sys import stdout,exit
