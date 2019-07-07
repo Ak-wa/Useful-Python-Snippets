@@ -9,9 +9,14 @@ Here I put my Python snippets that may be useful for one or the other purpose.
 
 ### tor_check.py
 
-* tries to route the script through tor on socks5://127.0.0.1:9150 ; prints your remote ip address.
+* Tries to route the script through tor on socks5://127.0.0.1:9150 ; prints your remote ip address.
 
 ### haveibeenpwned.py
 
-* checks an email for database leaks on https://haveibeenpwned.com
+* Checks an email for database leaks on https://haveibeenpwned.com
 * Usage in code: `mail_check("example@example.com")`
+
+### robots_check.py
+
+* Checks a website.com/robots.txt for entries & prints them out
+* Usage in code: `robots_check("https://www.example.com")`
