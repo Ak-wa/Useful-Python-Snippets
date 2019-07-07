@@ -11,10 +11,6 @@ Here I put my Python snippets that may be useful for one or the other purpose.
 * Adds "'"(part of SQL Syntax) to the end of url & checks response html for SQL errors
 * Usage in code: `check_sqli("example_target_list.txt")`
 
-### tor_check.py
-
-* Tries to route the script through tor on socks5://127.0.0.1:9150 ; prints your remote ip address.
-
 ### haveibeenpwned.py
 
 * Checks an email for database leaks on https://haveibeenpwned.com
@@ -24,3 +20,7 @@ Here I put my Python snippets that may be useful for one or the other purpose.
 
 * Checks a website.com/robots.txt for entries & prints them out
 * Usage in code: `robots_check("https://www.example.com")`
+
+### tor_check.py
+
+* Tries to route the script through tor on socks5://127.0.0.1:9150 ; prints your remote ip address.
