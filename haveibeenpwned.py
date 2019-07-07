@@ -10,4 +10,4 @@ def mail_check(mail):
             print("     %s"%info)
         print("  => Breach Date", leak["BreachDate"])
         
-mail_check("123@gmail.com")
+
