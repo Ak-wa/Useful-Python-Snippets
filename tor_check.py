@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Feel free to leave any feedback on my github: github.com/ak-w
+# Feel free to leave any feedback on my github: github.com/ak-wa
 # Tests for tor connection ability through localhost:9150 (Tor Socks5 Port)
 # Troubleshooting:
 # 1. Make sure to have tor service installed and running(On linux: apt-get install tor && tor | On windows, just start the tor browser)
