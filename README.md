@@ -6,6 +6,10 @@
 
 Here I put my Python snippets that may be useful for one or the other purpose.
 
+### check_sqli.py
+* Checks for basic SQL Injection on a list of targets
+* Adds "'"(part of SQL Syntax) to the end of url & checks response html for SQL errors
+* Usage in code: `check_sqli("example_target_list.txt")`
 
 ### tor_check.py
 
