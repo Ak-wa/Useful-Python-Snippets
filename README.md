@@ -11,6 +11,10 @@ Here I put my Python snippets that may be useful for one or the other purpose.
 * Adds "'"(part of SQL Syntax) to the end of url & checks response html for SQL errors
 * Usage in code: `check_sqli("example_target_list.txt")`
 
+### convert_cyrillic_ru.py
+* Converts russian cyrillic chars into 'normal' ones
+* Usage in code: `convert_cyrillic_ru("еxампле")
+
 ### haveibeenpwned.py
 
 * Checks an email for database leaks on https://haveibeenpwned.com
