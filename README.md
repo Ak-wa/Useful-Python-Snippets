@@ -14,4 +14,4 @@ Here I put my Python snippets that may be useful for one or the other purpose.
 ### haveibeenpwned.py
 
 * checks an email for database leaks on https://haveibeenpwned.com
-* Usage in code: `mail_check("example@example.com")
+* Usage in code: `mail_check("example@example.com")`
