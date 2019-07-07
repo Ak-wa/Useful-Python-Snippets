@@ -74,5 +74,5 @@ def convert_cyrillic_ru(letters):
         try:
             letters = letters.replace(key, dict[key])
         except:
-            print("[+] Failed to convert chars")
+            pass
     print(letters)
